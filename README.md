@@ -96,3 +96,7 @@ L'architecture du projet est conçue selon le modèle MVC (Modèle-Vue-Contrôle
   #Vidéo Démonstrative
   
 
+
+
+https://github.com/user-attachments/assets/9a9f8089-661c-40c6-a755-2c50de233d04
+
