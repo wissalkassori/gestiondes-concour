@@ -30,5 +30,11 @@ Réduire les coûts opérationnels grâce à l’automatisation des processus.
 
 ![image](https://github.com/user-attachments/assets/bb8143b3-1a3b-46c0-a1b7-5aba54aff3bc)
 
-
+# Structure de la Base de Données
+Le système repose sur quatre tables principales : 
++ Concours
++ Candidat
++ Resultat
++ Utilisateur
+  
 
