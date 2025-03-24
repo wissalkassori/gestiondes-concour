@@ -93,10 +93,19 @@ L'architecture du projet est conçue selon le modèle MVC (Modèle-Vue-Contrôle
 + La Vue: se concentre sur l'affichage et l'interaction avec l'utilisateur.
 
 + Le Contrôleur: fait le lien entre les deux, assurant une communication fluide et une gestion cohérente des actions.
+
   #Vidéo Démonstrative
   
 
 
 
-https://github.com/user-attachments/assets/9a9f8089-661c-40c6-a755-2c50de233d04
+
+
+https://github.com/user-attachments/assets/0b2f97bf-615e-4a94-a5b1-c5f789c3abe7
+
+
+
+
+
+
 
